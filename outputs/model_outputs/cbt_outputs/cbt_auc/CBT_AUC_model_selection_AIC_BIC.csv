@@ -1,0 +1,5 @@
+model,formula,n,aic,bic,error,delta_aic_vs_best,delta_bic_vs_best
+M0_base,auc_delta_h ~ arm * scenario + sex_c,13,69.39769737385257,78.20437314000294,,0.0,0.0
+M2_plus_bmr,auc_delta_h ~ arm * scenario + sex_c + bmr_c,13,70.98040170039931,81.04517400457117,,1.5827043265467466,2.840800864568223
+M1_plus_fat,auc_delta_h ~ arm * scenario + sex_c + fat_pct_c,13,71.12735950445902,81.19213180863088,,1.7296621306064566,2.987758668627933
+M3_plus_fat_bmr,auc_delta_h ~ arm * scenario + sex_c + fat_pct_c + bmr_c,13,71.4899164368174,82.81278527901074,,2.09221906296483,4.608412139007797

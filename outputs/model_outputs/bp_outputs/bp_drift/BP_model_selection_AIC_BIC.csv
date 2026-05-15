@@ -1,0 +1,13 @@
+metric,model,formula,reml,n_obs,n_participants,aic,bic,converged,error,delta_aic_vs_M0,delta_bic_vs_M0,best_aic,best_bic
+SBP,M0_arm_x_scen,drift ~ arm * scenario,False,28,14,200.3233796320103,208.31660669306152,True,,0.0,0.0,False,False
+SBP,M1_plus_sex,drift ~ arm * scenario + sex_c,False,28,14,198.27937939950198,207.6048109707284,False,,-2.044000232508324,-0.7117957223331075,True,True
+SBP,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,28,14,198.67036394721038,209.328000028612,True,,-1.6530156847999251,1.0113933355504798,False,False
+DBP,M0_arm_x_scen,drift ~ arm * scenario,False,28,14,169.34636892233186,177.33959598338308,True,,0.0,0.0,False,False
+DBP,M1_plus_sex,drift ~ arm * scenario + sex_c,False,28,14,166.65737347013663,175.98280504136306,True,,-2.688995452195229,-1.3567909420200124,True,True
+DBP,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,28,14,167.77581494676167,178.4334510281633,True,,-1.570553975570192,1.093855044780213,False,False
+MAP,M0_arm_x_scen,drift ~ arm * scenario,False,28,14,175.88061990883654,183.87384696988775,True,,0.0,0.0,False,False
+MAP,M1_plus_sex,drift ~ arm * scenario + sex_c,False,28,14,172.98880671112147,182.3142382823479,True,,-2.8918131977150665,-1.5596086875398498,True,True
+MAP,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,28,14,173.68335557731012,184.34099165871174,True,,-2.197264331526412,0.46714468882399274,False,False
+PP,M0_arm_x_scen,drift ~ arm * scenario,False,28,14,186.694084546002,194.6873116070532,True,,0.0,0.0,True,True
+PP,M1_plus_sex,drift ~ arm * scenario + sex_c,False,28,14,188.694084546002,198.01951611722842,True,,2.0,3.3322045101752167,False,False
+PP,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,28,14,186.81557062666656,197.47320670806818,True,,0.12148608066456745,2.7858951010149724,False,False

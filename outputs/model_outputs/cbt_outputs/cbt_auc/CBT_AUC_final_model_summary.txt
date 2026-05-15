@@ -1,0 +1,21 @@
+Final model formula:
+auc_delta_h ~ arm * scenario + sex_c
+
+               Mixed Linear Model Regression Results
+====================================================================
+Model:                 MixedLM    Dependent Variable:    auc_delta_h
+No. Observations:      26         Method:                REML       
+No. Groups:            13         Scale:                 0.6104     
+Min. group size:       2          Log-Likelihood:        -29.2826   
+Max. group size:       2          Converged:             Yes        
+Mean group size:       2.0                                          
+--------------------------------------------------------------------
+                          Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+--------------------------------------------------------------------
+Intercept                  1.211    0.344  3.523 0.000  0.537  1.885
+arm[T.CC]                 -1.336    0.435 -3.070 0.002 -2.189 -0.483
+scenario[T.HS2]           -0.712    0.418 -1.705 0.088 -1.530  0.107
+arm[T.CC]:scenario[T.HS2]  1.164    0.615  1.894 0.058 -0.041  2.369
+sex_c                      0.444    0.308  1.441 0.149 -0.160  1.048
+Group Var                  0.000    0.278                           
+====================================================================

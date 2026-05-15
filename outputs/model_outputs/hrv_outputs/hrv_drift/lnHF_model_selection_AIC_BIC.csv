@@ -1,0 +1,3 @@
+model,formula,n,aic,bic,error,delta_aic_vs_best,delta_bic_vs_best
+M0_base_sex,drift ~ arm * scenario + sex_c,14,45.20606971933786,54.53150129056429,,0.0,0.0
+M1_plus_fat,drift ~ arm * scenario + sex_c + fat_pct_c,14,45.70486321512489,56.36249929652652,,0.4987934957870266,1.830998005962229

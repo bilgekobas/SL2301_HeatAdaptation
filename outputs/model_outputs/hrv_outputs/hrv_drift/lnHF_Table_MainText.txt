@@ -1,0 +1,4 @@
+Arm / Contrast  PRE drift (ln(power))  POST drift (ln(power))  Δ POST–PRE (ln(power))   95% CI of Δ  p (paired contrast)  Effect size (dz)
+    FR (n = 8)              -0.138492                0.240615                0.379107 [-0.04, 0.80]             0.076279          0.642735
+    CC (n = 6)               0.056515               -0.328902               -0.385418 [-0.87, 0.10]             0.115812         -0.688018
+  FR – CC (ΔΔ)                    NaN                     NaN                0.764525  [0.12, 1.41]             0.022287          1.323473

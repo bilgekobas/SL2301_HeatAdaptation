@@ -1,0 +1,10 @@
+site,model,formula,reml,n_obs,n_participants,aic,bic,converged,error,delta_aic_vs_M0,delta_bic_vs_M0,best_aic,best_bic
+neck,M0_arm_x_scen,drift ~ arm * scenario,False,28,14,14.307919942513848,22.30114700356507,True,,0.0,0.0,True,True
+neck,M1_plus_sex,drift ~ arm * scenario + sex_c,False,28,14,15.776643707398335,25.102075278624763,True,,1.468723764884487,2.800928275059693,False,False
+neck,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,28,14,16.142930165636002,26.800566247037633,True,,1.8350102231221541,4.499419243472563,False,False
+ankle,M0_arm_x_scen,drift ~ arm * scenario,False,26,13,35.066745753433295,42.61532498156219,True,,0.0,0.0,True,True
+ankle,M1_plus_sex,drift ~ arm * scenario + sex_c,False,26,13,37.020717897218944,45.82739366336932,True,,1.9539721437856485,3.212068681807132,False,False
+ankle,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,26,13,38.06671980909424,48.13149211326609,True,,2.9999740556609424,5.516167131703902,False,False
+dpg,M0_arm_x_scen,drift ~ arm * scenario,False,26,13,48.68717002050842,56.23574924863731,True,,0.0,0.0,True,True
+dpg,M1_plus_sex,drift ~ arm * scenario + sex_c,False,26,13,50.569253894500775,59.37592966065115,True,,1.8820838739923573,3.140180412013841,False,False
+dpg,M2_plus_fat,drift ~ arm * scenario + sex_c + fat_pct,False,26,13,51.20453315629739,61.26930546046924,True,,2.517363135788969,5.033556211831929,False,False

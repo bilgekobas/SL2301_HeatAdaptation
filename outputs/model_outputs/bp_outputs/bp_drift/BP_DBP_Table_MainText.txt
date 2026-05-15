@@ -1,0 +1,3 @@
+arm  n_participants  HS1_adj_mean  HS1_ci_lo  HS1_ci_hi  HS2_adj_mean  HS2_ci_lo  HS2_ci_hi  delta_HS2_minus_HS1  delta_ci_lo  delta_ci_hi  p_within_arm  dz_within_arm  n_dd
+ FR               8      0.478175  -2.712626   3.668975      2.228175  -0.962626   5.418975                 1.75    -1.503852     5.003852      0.277385       0.385839     8
+ CC               6      0.695767  -2.991721   4.383255     -0.804233  -4.491721   2.883255                -1.50    -5.257225     2.257225      0.417362      -0.346873     6

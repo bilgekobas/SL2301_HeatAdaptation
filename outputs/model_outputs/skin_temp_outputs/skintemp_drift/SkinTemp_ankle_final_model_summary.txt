@@ -1,0 +1,21 @@
+Final model formula:
+drift ~ arm * scenario + sex_c
+
+               Mixed Linear Model Regression Results
+====================================================================
+Model:                  MixedLM     Dependent Variable:     drift   
+No. Observations:       26          Method:                 REML    
+No. Groups:             13          Scale:                  0.1585  
+Min. group size:        2           Log-Likelihood:         -16.0964
+Max. group size:        2           Converged:              Yes     
+Mean group size:        2.0                                         
+--------------------------------------------------------------------
+                          Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+--------------------------------------------------------------------
+Intercept                  0.653    0.186  3.517 0.000  0.289  1.017
+arm[T.CC]                 -0.414    0.240 -1.725 0.085 -0.884  0.056
+scenario[T.HS2]           -0.774    0.199 -3.888 0.000 -1.164 -0.384
+arm[T.CC]:scenario[T.HS2]  0.994    0.321  3.098 0.002  0.365  1.624
+sex_c                     -0.034    0.178 -0.188 0.851 -0.383  0.316
+Group Var                  0.018    0.151                           
+====================================================================

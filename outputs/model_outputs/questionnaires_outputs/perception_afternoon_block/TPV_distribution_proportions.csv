@@ -1,0 +1,33 @@
+arm,tod,scenario,tpv,n,prop
+FR,Morning,HS1,Cooler,2,0.25
+FR,Morning,HS1,Much cooler,0,0.0
+FR,Morning,HS1,Slightly cooler,5,0.625
+FR,Morning,HS1,Without change,1,0.125
+FR,Morning,HS2,Cooler,3,0.375
+FR,Morning,HS2,Much cooler,0,0.0
+FR,Morning,HS2,Slightly cooler,4,0.5
+FR,Morning,HS2,Without change,1,0.125
+FR,Afternoon,HS1,Cooler,5,0.3125
+FR,Afternoon,HS1,Much cooler,1,0.0625
+FR,Afternoon,HS1,Slightly cooler,7,0.4375
+FR,Afternoon,HS1,Without change,3,0.1875
+FR,Afternoon,HS2,Cooler,7,0.4375
+FR,Afternoon,HS2,Much cooler,3,0.1875
+FR,Afternoon,HS2,Slightly cooler,4,0.25
+FR,Afternoon,HS2,Without change,2,0.125
+CC,Morning,HS1,Cooler,0,0.0
+CC,Morning,HS1,Much cooler,0,0.0
+CC,Morning,HS1,Slightly cooler,5,0.8333333333333334
+CC,Morning,HS1,Without change,1,0.16666666666666666
+CC,Morning,HS2,Cooler,4,0.6666666666666666
+CC,Morning,HS2,Much cooler,0,0.0
+CC,Morning,HS2,Slightly cooler,1,0.16666666666666666
+CC,Morning,HS2,Without change,1,0.16666666666666666
+CC,Afternoon,HS1,Cooler,3,0.25
+CC,Afternoon,HS1,Much cooler,0,0.0
+CC,Afternoon,HS1,Slightly cooler,7,0.5833333333333334
+CC,Afternoon,HS1,Without change,2,0.16666666666666666
+CC,Afternoon,HS2,Cooler,5,0.4166666666666667
+CC,Afternoon,HS2,Much cooler,2,0.16666666666666666
+CC,Afternoon,HS2,Slightly cooler,4,0.3333333333333333
+CC,Afternoon,HS2,Without change,1,0.08333333333333333

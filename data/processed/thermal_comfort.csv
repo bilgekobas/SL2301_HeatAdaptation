@@ -1,0 +1,349 @@
+﻿part_id,date,scenario,session_id,time,datetime,tsv,tsv_scale,tcv,tcv_scale,tpv,tpv_scale,NASA1,NASA2,NASA3,NASA4,NASA5
+P02,05-06-23,HS1,P02_HS1,10:30:00,05-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Much cooler,-3,6,5,11,-1,2
+P02,05-06-23,HS1,P02_HS1,12:30:00,05-06-23 12:30,Hot,2,Very uncomfortable,3,Much cooler,-3,12,13,13,2,1
+P02,05-06-23,HS1,P02_HS1,13:30:00,05-06-23 13:30,Hot,2,Very uncomfortable,3,Much cooler,-3,14,13,13,3,-2
+P02,05-06-23,HS1,P02_HS1,16:30:00,05-06-23 16:30,Very hot,3,Extremely uncomfortable,4,Much cooler,-3,15,16,15,2,-4
+P06,05-06-23,HS1,P06_HS1,10:30:00,05-06-23 10:30,Hot,2,Uncomfortable,2,Much cooler,-3,13,16,13,2,-2
+P06,05-06-23,HS1,P06_HS1,12:30:00,05-06-23 12:30,Hot,2,Uncomfortable,2,Cooler,-2,11,11,11,0,-2
+P06,05-06-23,HS1,P06_HS1,13:30:00,05-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,7,7,10,-3,1
+P06,05-06-23,HS1,P06_HS1,16:30:00,05-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,3,6,8,-4,-1
+P07,05-06-23,HS1,P07_HS1,10:30:00,05-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,13,14,6,2,2
+P07,05-06-23,HS1,P07_HS1,12:30:00,05-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,8,9,6,-2,-2
+P07,05-06-23,HS1,P07_HS1,13:30:00,05-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,3,3,6,-2,-2
+P07,05-06-23,HS1,P07_HS1,16:30:00,05-06-23 16:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,3,5,4,-4,4
+P09,05-06-23,HS1,P09_HS1,10:30:00,05-06-23 10:30,Slightly cool,-1,Comfortable,0,Slightly cooler,-1,12,10,12,1,2
+P09,05-06-23,HS1,P09_HS1,12:30:00,05-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,10,10,0,-1
+P09,05-06-23,HS1,P09_HS1,13:30:00,05-06-23 13:30,Slightly cool,-1,Comfortable,0,Without change,0,8,7,6,2,-1
+P09,05-06-23,HS1,P09_HS1,16:30:00,05-06-23 16:30,Slightly cool,-1,Comfortable,0,Without change,0,10,10,10,-1,-2
+P11,05-06-23,HS1,P11_HS1,10:30:00,05-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,17,17,18,2,0
+P11,05-06-23,HS1,P11_HS1,12:30:00,05-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,17,17,17,0,0
+P11,05-06-23,HS1,P11_HS1,13:30:00,05-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,12,12,14,0,0
+P11,05-06-23,HS1,P11_HS1,16:30:00,05-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,11,11,12,-1,1
+P24,05-06-23,HS1,P24_HS1,10:30:00,05-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,4,14,-5,-2
+P24,05-06-23,HS1,P24_HS1,12:30:00,05-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,7,11,-5,-1
+P24,05-06-23,HS1,P24_HS1,13:30:00,05-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,10,4,12,-5,-3
+P24,05-06-23,HS1,P24_HS1,16:30:00,05-06-23 16:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,11,2,13,0,-3
+P04,06-06-23,HS1,P04_HS1,10:30:00,06-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,5,1,-4,5
+P04,06-06-23,HS1,P04_HS1,12:30:00,06-06-23 12:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-5,3
+P04,06-06-23,HS1,P04_HS1,13:30:00,06-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,1,-3,1
+P04,06-06-23,HS1,P04_HS1,16:30:00,06-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,1,-4,1
+P08,06-06-23,HS1,P08_HS1,10:30:00,06-06-23 10:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,12,10,13,3,1
+P08,06-06-23,HS1,P08_HS1,12:30:00,06-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,7,9,10,-1,2
+P08,06-06-23,HS1,P08_HS1,13:30:00,06-06-23 13:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,9,7,14,-2,0
+P08,06-06-23,HS1,P08_HS1,16:30:00,06-06-23 16:30,Hot ,2,Uncomfortable,2,Cooler,-2,7,11,15,-1,-2
+P12,06-06-23,HS1,P12_HS1,10:30:00,06-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,9,9,8,-3,0
+P12,06-06-23,HS1,P12_HS1,12:30:00,06-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,6,8,5,-4,-2
+P12,06-06-23,HS1,P12_HS1,13:30:00,06-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,9,6,9,-1,2
+P12,06-06-23,HS1,P12_HS1,16:30:00,06-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,8,7,7,-3,0
+P13,06-06-23,HS1,P13_HS1,10:30:00,06-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Without change,0,10,12,14,2,-1
+P13,06-06-23,HS1,P13_HS1,12:30:00,06-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Without change,0,12,12,11,1,-3
+P13,06-06-23,HS1,P13_HS1,13:30:00,06-06-23 13:30,Neither hot nor cold,0,Uncomfortable,2,Without change,0,10,14,9,0,1
+P13,06-06-23,HS1,P13_HS1,16:30:00,06-06-23 16:30,Hot,2,Uncomfortable,2,Slightly cooler,-1,10,13,8,-1,-2
+P14,06-06-23,HS1,P14_HS1,10:30:00,06-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,9,13,13,3,-2
+P14,06-06-23,HS1,P14_HS1,12:30:00,06-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,7,10,11,0,-3
+P14,06-06-23,HS1,P14_HS1,13:30:00,06-06-23 13:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,11,5,11,1,0
+P14,06-06-23,HS1,P14_HS1,16:30:00,06-06-23 16:30,Very hot,3,Very uncomfortable,3,Much cooler,-3,11,8,11,-1,-1
+P15,06-06-23,HS1,P15_HS1,10:30:00,06-06-23 10:30,Hot,2,Uncomfortable,2,Cooler,-2,13,15,12,1,-2
+P15,06-06-23,HS1,P15_HS1,12:30:00,06-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,9,11,9,0,0
+P15,06-06-23,HS1,P15_HS1,13:30:00,06-06-23 13:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,16,6,14,-1,-2
+P15,06-06-23,HS1,P15_HS1,16:30:00,06-06-23 16:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,17,14,16,1,-3
+P19,06-06-23,HS1,P19_HS1,10:30:00,06-06-23 10:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,17,13,4,2,4
+P19,06-06-23,HS1,P19_HS1,12:30:00,06-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,16,4,-4,2
+P19,06-06-23,HS1,P19_HS1,13:30:00,06-06-23 13:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,8,15,6,-1,-2
+P19,06-06-23,HS1,P19_HS1,16:30:00,06-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,17,4,-4,5
+P21,06-06-23,HS1,P21_HS1,10:30:00,06-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,14,11,9,2,-1
+P21,06-06-23,HS1,P21_HS1,12:30:00,06-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,15,13,14,1,-2
+P21,06-06-23,HS1,P21_HS1,13:30:00,06-06-23 13:30,Slightly warm,1,Comfortable,0,Cooler,-2,10,9,8,-2,1
+P21,06-06-23,HS1,P21_HS1,16:30:00,06-06-23 16:30,Hot,2,Uncomfortable,2,Cooler,-2,9,12,6,-3,3
+P22,06-06-23,HS1,P22_HS1,10:30:00,06-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,4,4,4,-5,1
+P22,06-06-23,HS1,P22_HS1,12:30:00,06-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,2,2,-5,-2
+P22,06-06-23,HS1,P22_HS1,13:30:00,06-06-23 13:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,2,2,1,-5,-1
+P22,06-06-23,HS1,P22_HS1,16:30:00,06-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,2,1,-5,0
+P16,07-06-23,HS1,P16_HS1,10:30:00,07-06-23 10:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,6,1,1,-5,-3
+P16,07-06-23,HS1,P16_HS1,12:30:00,07-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,6,1,1,-5,-4
+P16,07-06-23,HS1,P16_HS1,13:30:00,07-06-23 13:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,6,1,1,-5,-2
+P16,07-06-23,HS1,P16_HS1,16:30:00,07-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,1,1,1,-5,-4
+P17,07-06-23,HS1,P17_HS1,10:30:00,07-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,6,-3,-4
+P17,07-06-23,HS1,P17_HS1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Slightly uncomfortable,1,Slightly cooler,-1,1,1,6,-3,-2
+P17,07-06-23,HS1,P17_HS1,13:30:00,07-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,5,-4,-1
+P17,07-06-23,HS1,P17_HS1,16:30:00,07-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,5,-4,-1
+P05,07-06-23,HS1,P05_HS1,10:30:00,07-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,11,11,-3,2
+P05,07-06-23,HS1,P05_HS1,12:30:00,07-06-23 12:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,15,7,13,-3,-2
+P05,07-06-23,HS1,P05_HS1,13:30:00,07-06-23 13:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,13,14,12,-3,-3
+P05,07-06-23,HS1,P05_HS1,16:30:00,07-06-23 16:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,7,12,6,-4,3
+P01,07-06-23,HS1,P01_HS1,10:30:00,07-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,5,3,5,-5,1
+P01,07-06-23,HS1,P01_HS1,12:30:00,07-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,7,5,7,-5,0
+P01,07-06-23,HS1,P01_HS1,13:30:00,07-06-23 13:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,7,7,7,-3,-1
+P01,07-06-23,HS1,P01_HS1,16:30:00,07-06-23 16:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,4,4,6,-4,1
+P09,07-06-23,FR1,P09_FR1,10:30:00,07-06-23 10:30,Neither hot nor cold,0,Slightly uncomfortable,1,Slightly warmer,1,13,12,9,-2,-2
+P09,07-06-23,FR1,P09_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,9,10,7,-2,3
+P09,07-06-23,FR1,P09_FR1,13:30:00,07-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,8,10,6,-3,3
+P09,07-06-23,FR1,P09_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Slightly uncomfortable,1,Slightly cooler,-1,12,9,10,0,-3
+P08,07-06-23,FR1,P08_FR1,10:30:00,07-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,2,3,-2,2
+P08,07-06-23,FR1,P08_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,6,7,5,-1,3
+P08,07-06-23,FR1,P08_FR1,13:30:00,07-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,7,8,8,1,3
+P08,07-06-23,FR1,P08_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,5,12,-3,-1
+P04,07-06-23,FR1,P04_FR1,10:30:00,07-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,5
+P04,07-06-23,FR1,P04_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,3
+P04,07-06-23,FR1,P04_FR1,13:30:00,07-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,1
+P04,07-06-23,FR1,P04_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,1
+P12,07-06-23,FR1,P12_FR1,0:00:00,07-06-23 0:00,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,15,11,11,0,2
+P12,07-06-23,FR1,P12_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,8,11,-3,-3
+P12,07-06-23,FR1,P12_FR1,0:00:00,07-06-23 0:00,Slightly warm,1,Comfortable,0,Without change,0,12,6,10,-4,2
+P12,07-06-23,FR1,P12_FR1,16:30:00,07-06-23 16:30,Slightly warm,1,Comfortable,0,Without change,0,11,7,8,-3,2
+P11,07-06-23,FR1,P11_FR1,10:30:00,07-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,15,15,11,-2,1
+P11,07-06-23,FR1,P11_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,14,15,10,-2,1
+P11,07-06-23,FR1,P11_FR1,13:30:00,07-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,15,14,10,-1,2
+P11,07-06-23,FR1,P11_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,16,15,10,1,1
+P13,07-06-23,FR1,P13_FR1,10:30:00,07-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,8,10,11,2,1
+P13,07-06-23,FR1,P13_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,9,13,14,3,1
+P13,07-06-23,FR1,P13_FR1,13:30:00,07-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,8,7,13,0,-1
+P13,07-06-23,FR1,P13_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Slightly uncomfortable,1,Without change,0,10,7,14,0,-2
+P15,07-06-23,FR1,P15_FR1,10:30:00,07-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,16,7,18,0,-3
+P15,07-06-23,FR1,P15_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,11,15,2,1
+P15,07-06-23,FR1,P15_FR1,13:30:00,07-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,12,14,1,-1
+P15,07-06-23,FR1,P15_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,8,9,2,1
+P14,07-06-23,FR1,P14_FR1,10:30:00,07-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,9,4,13,-2,-1
+P14,07-06-23,FR1,P14_FR1,12:30:00,07-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,11,10,0,1
+P14,07-06-23,FR1,P14_FR1,13:30:00,07-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,12,8,15,-1,-5
+P14,07-06-23,FR1,P14_FR1,16:30:00,07-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,18,11,-1,-2
+P02,08-06-23,HS1,P02_HS1,10:30:00,08-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Much cooler,-3,13,10,12,0,-1
+P02,08-06-23,HS1,P02_HS1,12:30:00,08-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Much cooler,-3,10,12,11,-1,1
+P02,08-06-23,HS1,P02_HS1,13:30:00,08-06-23 13:30,Hot,2,Uncomfortable,2,Much cooler,-3,15,16,14,2,-3
+P02,08-06-23,HS1,P02_HS1,16:30:00,08-06-23 16:30,Very hot,3,Extremely uncomfortable,4,Much cooler,-3,17,17,16,4,-4
+P03,08-06-23,HS1,P03_HS1,10:30:00,08-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,7,10,13,-3,-2
+P03,08-06-23,HS1,P03_HS1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Slightly uncomfortable,1,Without change,0,6,11,13,-2,-2
+P03,08-06-23,HS1,P03_HS1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Slightly uncomfortable,1,Slightly cooler,-1,11,10,12,1,-3
+P03,08-06-23,HS1,P03_HS1,16:30:00,08-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,10,10,2,2
+P10,08-06-23,HS1,P10_HS1,10:30:00,08-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,15,14,6,-3,3
+P10,08-06-23,HS1,P10_HS1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,16,15,9,0,1
+P10,08-06-23,HS1,P10_HS1,13:30:00,08-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,17,17,13,1,-1
+P10,08-06-23,HS1,P10_HS1,16:30:00,08-06-23 16:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,17,17,7,2,2
+P23,08-06-23,HS1,P23_HS1,10:30:00,08-06-23 10:30,Hot,2,Very uncomfortable,3,Much cooler,-3,11,17,17,3,-4
+P23,08-06-23,HS1,P23_HS1,12:30:00,08-06-23 12:30,Very hot,3,Extremely uncomfortable,4,Much cooler,-3,15,20,18,4,-5
+P23,08-06-23,HS1,P23_HS1,13:30:00,08-06-23 13:30,Very hot,3,Extremely uncomfortable,4,Much cooler,-3,10,16,16,3,-3
+P23,08-06-23,HS1,P23_HS1,16:30:00,08-06-23 16:30,Very hot,3,Extremely uncomfortable,4,Much cooler,-3,18,18,18,3,-5
+P01,08-06-23,CC1,P01_CC1,10:30:00,08-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,4,5,6,-3,2
+P01,08-06-23,CC1,P01_CC1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,4,7,11,-3,0
+P01,08-06-23,CC1,P01_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Slightly uncomfortable,1,Without change,0,6,7,5,-2,-1
+P01,08-06-23,CC1,P01_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,5,8,8,-3,2
+P16,08-06-23,CC1,P16_CC1,10:30:00,08-06-23 10:30,Slightly cool,-1,Comfortable,0,Without change,0,1,1,1,-5,3
+P16,08-06-23,CC1,P16_CC1,12:30:00,08-06-23 12:30,Slightly cool,-1,Slightly uncomfortable,1,Slightly warmer,1,1,1,1,-5,4
+P16,08-06-23,CC1,P16_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,3
+P16,08-06-23,CC1,P16_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,4
+P17,08-06-23,CC1,P17_CC1,10:30:00,08-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,7,-5,-3
+P17,08-06-23,CC1,P17_CC1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,5,-4,-2
+P17,08-06-23,CC1,P17_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,6,-4,-3
+P17,08-06-23,CC1,P17_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,5,-4,0
+P19,08-06-23,CC1,P19_CC1,10:30:00,08-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,7,14,6,1,5
+P19,08-06-23,CC1,P19_CC1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,12,17,3,2,1
+P19,08-06-23,CC1,P19_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,14,17,4,2,-1
+P19,08-06-23,CC1,P19_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,8,16,6,0,-1
+P21,08-06-23,CC1,P21_CC1,10:30:00,08-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,5,6,6,-4,4
+P21,08-06-23,CC1,P21_CC1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,5,5,8,-4,2
+P21,08-06-23,CC1,P21_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,10,11,0,-3
+P21,08-06-23,CC1,P21_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,12,13,12,2,1
+P22,08-06-23,CC1,P22_CC1,10:30:00,08-06-23 10:30,Slightly cool,-1,Comfortable,0,Without change,0,2,2,1,-5,2
+P22,08-06-23,CC1,P22_CC1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,1,1,-5,2
+P22,08-06-23,CC1,P22_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,1,1,1,-5,-2
+P22,08-06-23,CC1,P22_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,1,1,1,-5,-1
+P24,08-06-23,CC1,P24_CC1,10:30:00,08-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,1,9,-3,0
+P24,08-06-23,CC1,P24_CC1,12:30:00,08-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,5,1,8,-5,-1
+P24,08-06-23,CC1,P24_CC1,13:30:00,08-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Cooler,-2,6,2,10,-1,0
+P24,08-06-23,CC1,P24_CC1,16:30:00,08-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,6,6,9,0,-2
+P03,09-06-23,DC1,P03_DC1,10:30:00,09-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,14,11,11,1,1
+P03,09-06-23,DC1,P03_DC1,12:30:00,09-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,14,11,10,-1,2
+P03,09-06-23,DC1,P03_DC1,13:30:00,09-06-23 13:30,Slightly cool,-1,Comfortable,0,Without change,0,14,11,8,-3,3
+P03,09-06-23,DC1,P03_DC1,16:30:00,09-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,11,10,8,-1,2
+P07,09-06-23,DC1,P07_DC1,10:30:00,09-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,4,4,4,-3,2
+P07,09-06-23,DC1,P07_DC1,12:30:00,09-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,4,12,7,1,-2
+P07,09-06-23,DC1,P07_DC1,13:30:00,09-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,6,6,5,-2,0
+P07,09-06-23,DC1,P07_DC1,16:30:00,09-06-23 16:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,3,15,6,-2,-5
+P10,09-06-23,DC1,P10_DC1,10:30:00,09-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,13,15,-2,-2
+P10,09-06-23,DC1,P10_DC1,12:30:00,09-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,12,12,5,-1,1
+P10,09-06-23,DC1,P10_DC1,13:30:00,09-06-23 13:30,Slightly cool,-1,Comfortable,0,Slightly warmer,1,11,11,5,0,1
+P10,09-06-23,DC1,P10_DC1,16:30:00,09-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,11,10,5,-1,2
+P21,09-06-23,DC1,P21_DC1,10:30:00,09-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,4,3,4,-4,4
+P21,09-06-23,DC1,P21_DC1,12:30:00,09-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,9,12,12,1,0
+P21,09-06-23,DC1,P21_DC1,13:30:00,09-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,6,6,1,4
+P21,09-06-23,DC1,P21_DC1,16:30:00,09-06-23 16:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,7,7,11,-2,3
+P23,09-06-23,DC1,P23_DC1,10:30:00,09-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,14,14,14,3,-2
+P23,09-06-23,DC1,P23_DC1,12:30:00,09-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,14,14,14,3,-3
+P23,09-06-23,DC1,P23_DC1,13:30:00,09-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,14,14,18,3,-3
+P23,09-06-23,DC1,P23_DC1,16:30:00,09-06-23 16:30,Hot,2,Uncomfortable,2,Cooler,-2,16,18,18,3,-4
+P02,09-06-23,DC1,P02_DC1,10:30:00,09-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Cooler,-2,10,8,14,-3,-3
+P02,09-06-23,DC1,P02_DC1,12:30:00,09-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Cooler,-2,12,10,11,-2,0
+P02,09-06-23,DC1,P02_DC1,13:30:00,09-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Cooler,-2,13,6,12,-4,1
+P02,09-06-23,DC1,P02_DC1,16:30:00,09-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Much cooler,-3,14,14,13,0,-3
+P06,13-06-23,DC1,P06_DC1,10:30:00,13-06-23 10:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,3,6,12,-3,-1
+P06,13-06-23,DC1,P06_DC1,12:30:00,13-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,7,10,-4,-2
+P06,13-06-23,DC1,P06_DC1,13:30:00,13-06-23 13:30,Slightly cool,-1,Comfortable,0,Slightly warmer,1,2,7,8,-4,-1
+P06,13-06-23,DC1,P06_DC1,16:30:00,13-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,5,7,-5,0
+P09,19-06-23,FR9,P09_FR9,10:30:00,19-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,10,10,1,-2
+P09,19-06-23,FR9,P09_FR9,12:30:00,19-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,10,10,0,-1
+P09,19-06-23,FR9,P09_FR9,13:30:00,19-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,8,7,7,-3,3
+P09,19-06-23,FR9,P09_FR9,16:30:00,19-06-23 16:30,Slightly cool,-1,Comfortable,0,Without change,0,11,12,12,1,1
+P08,19-06-23,FR9,P08_FR9,10:30:00,19-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,12,6,-1,2
+P08,19-06-23,FR9,P08_FR9,12:30:00,19-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,11,11,-1,1
+P08,19-06-23,FR9,P08_FR9,13:30:00,19-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,11,10,14,1,2
+P08,19-06-23,FR9,P08_FR9,16:30:00,19-06-23 16:30,Hot,2,Uncomfortable,2,Cooler,-2,9,7,11,-2,-3
+P04,19-06-23,FR9,P04_FR9,10:30:00,19-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,9,0,-5
+P04,19-06-23,FR9,P04_FR9,12:30:00,19-06-23 12:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-3,-2
+P04,19-06-23,FR9,P04_FR9,13:30:00,19-06-23 13:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-3,2
+P04,19-06-23,FR9,P04_FR9,16:30:00,19-06-23 16:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-5,3
+P12,19-06-23,FR9,P12_FR9,10:30:00,19-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,12,10,9,-2,2
+P12,19-06-23,FR9,P12_FR9,12:30:00,19-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,13,7,-1,0
+P12,19-06-23,FR9,P12_FR9,13:30:00,19-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,12,10,8,-3,-3
+P12,19-06-23,FR9,P12_FR9,16:30:00,19-06-23 16:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,11,11,7,1,-1
+P11,19-06-23,FR9,P11_FR9,10:30:00,19-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,13,13,1,1
+P11,19-06-23,FR9,P11_FR9,12:30:00,19-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,15,11,1,1
+P11,19-06-23,FR9,P11_FR9,13:30:00,19-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,15,8,0,3
+P11,19-06-23,FR9,P11_FR9,16:30:00,19-06-23 16:30,Neither hot nor cold,0,Slightly uncomfortable,1,Slightly cooler,-1,13,13,9,0,2
+P13,19-06-23,FR9,P13_FR9,10:30:00,19-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,8,10,13,0,0
+P13,19-06-23,FR9,P13_FR9,12:30:00,19-06-23 12:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,8,13,14,0,-2
+P13,19-06-23,FR9,P13_FR9,13:30:00,19-06-23 13:30,Hot,2,Uncomfortable,2,Cooler,-2,8,8,12,-2,-4
+P13,19-06-23,FR9,P13_FR9,16:30:00,19-06-23 16:30,Hot,2,Very uncomfortable,3,Cooler,-2,14,14,12,1,-2
+P15,19-06-23,FR9,P15_FR9,10:30:00,19-06-23 10:30,Slightly cool,-1,Slightly uncomfortable,1,Slightly cooler,-1,8,5,16,-3,-2
+P15,19-06-23,FR9,P15_FR9,12:30:00,19-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,8,13,1,0
+P15,19-06-23,FR9,P15_FR9,13:30:00,19-06-23 13:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,7,4,7,-1,-4
+P15,19-06-23,FR9,P15_FR9,16:30:00,19-06-23 16:30,Slightly cool,-1,Comfortable,0,Without change,0,5,9,12,2,1
+P14,19-06-23,FR9,P14_FR9,10:30:00,19-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,8,5,10,-3,2
+P14,19-06-23,FR9,P14_FR9,12:30:00,19-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,17,7,17,-1,-5
+P14,19-06-23,FR9,P14_FR9,13:30:00,19-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,14,8,16,-2,-5
+P14,19-06-23,FR9,P14_FR9,16:30:00,19-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,11,13,14,-2,2
+P01,20-06-23,CC9,P01_CC9,10:30:00,20-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,8,6,-3,3
+P01,20-06-23,CC9,P01_CC9,12:30:00,20-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,5,8,-3,3
+P01,20-06-23,CC9,P01_CC9,13:30:00,20-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,7,5,7,-3,2
+P01,20-06-23,CC9,P01_CC9,16:30:00,20-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,6,6,-3,2
+P16,20-06-23,CC9,P16_CC9,10:30:00,20-06-23 10:30,Cold,-2,Slightly uncomfortable,1,Slightly warmer,1,2,1,1,-5,3
+P16,20-06-23,CC9,P16_CC9,12:30:00,20-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,2
+P16,20-06-23,CC9,P16_CC9,13:30:00,20-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,2,1,1,-3,-2
+P16,20-06-23,CC9,P16_CC9,16:30:00,20-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,2
+P17,20-06-23,CC9,P17_CC9,10:30:00,20-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,2,5,-3,-2
+P17,20-06-23,CC9,P17_CC9,12:30:00,20-06-23 12:30,Slightly cool,-1,Comfortable,0,Slightly warmer,1,3,3,5,-2,-3
+P17,20-06-23,CC9,P17_CC9,13:30:00,20-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,2,5,-3,-4
+P17,20-06-23,CC9,P17_CC9,16:30:00,20-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,3,5,-3,-3
+P19,20-06-23,CC9,P19_CC9,10:30:00,20-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,12,15,6,-3,4
+P19,20-06-23,CC9,P19_CC9,12:30:00,20-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,7,16,3,2,0
+P19,20-06-23,CC9,P19_CC9,13:30:00,20-06-23 13:30,Slightly cool,-1,Comfortable,0,Without change,0,3,13,1,-4,-4
+P19,20-06-23,CC9,P19_CC9,16:30:00,20-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,15,18,1,-1,3
+P22,20-06-23,CC9,P22_CC9,10:30:00,20-06-23 10:30,Slightly cool,-1,Comfortable,0,Without change,0,1,1,1,-5,2
+P22,20-06-23,CC9,P22_CC9,12:30:00,20-06-23 12:30,Slightly cool,-1,Comfortable,0,Without change,0,1,1,1,-5,1
+P22,20-06-23,CC9,P22_CC9,13:30:00,20-06-23 13:30,Slightly cool,-1,Comfortable,0,Without change,0,1,1,1,-5,1
+P22,20-06-23,CC9,P22_CC9,16:30:00,20-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,1,-5,2
+P24,20-06-23,CC9,P24_CC9,10:30:00,20-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,6,1,11,-1,-3
+P24,20-06-23,CC9,P24_CC9,12:30:00,20-06-23 12:30,Slightly cool,-1,Slightly uncomfortable,1,Slightly warmer,1,5,4,11,-1,2
+P24,20-06-23,CC9,P24_CC9,13:30:00,20-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,5,3,12,-5,-4
+P24,20-06-23,CC9,P24_CC9,16:30:00,20-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,5,2,10,-5,1
+P03,21-06-23,DC9,P03_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,11,10,5,-3,3
+P03,21-06-23,DC9,P03_DC9,12:30:00,21-06-23 12:30,Slightly warm,1,Comfortable,0,Without change,0,12,9,7,-1,2
+P03,21-06-23,DC9,P03_DC9,13:30:00,21-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,11,9,9,-3,2
+P03,21-06-23,DC9,P03_DC9,16:30:00,21-06-23 16:30,Slightly warm,1,Comfortable,0,Without change,0,12,11,11,-1,2
+P07,21-06-23,DC9,P07_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,3,7,-4,-5
+P07,21-06-23,DC9,P07_DC9,12:30:00,21-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,14,6,-4,-5
+P07,21-06-23,DC9,P07_DC9,13:30:00,21-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,4,5,-4,-4
+P07,21-06-23,DC9,P07_DC9,16:30:00,21-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,3,3,-4,4
+P10,21-06-23,DC9,P10_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,12,8,-1,0
+P10,21-06-23,DC9,P10_DC9,12:30:00,21-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,14,11,9,-1,-2
+P10,21-06-23,DC9,P10_DC9,13:30:00,21-06-23 13:30,Slightly cool,-1,Comfortable,0,Without change,0,10,11,8,0,1
+P10,21-06-23,DC9,P10_DC9,16:30:00,21-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,14,8,1,-1
+P21,21-06-23,DC9,P21_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,5,3,6,-2,3
+P21,21-06-23,DC9,P21_DC9,12:30:00,21-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,7,9,6,1,3
+P21,21-06-23,DC9,P21_DC9,13:30:00,21-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,5,10,5,2,3
+P21,21-06-23,DC9,P21_DC9,16:30:00,21-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Cooler,-2,10,13,5,0,1
+P23,21-06-23,DC9,P23_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,16,17,16,3,-1
+P23,21-06-23,DC9,P23_DC9,12:30:00,21-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,14,14,14,0,0
+P23,21-06-23,DC9,P23_DC9,13:30:00,21-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,15,15,17,2,-1
+P23,21-06-23,DC9,P23_DC9,16:30:00,21-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,16,16,16,2,-2
+P02,21-06-23,DC9,P02_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Cooler,-2,8,6,12,-1,0
+P02,21-06-23,DC9,P02_DC9,12:30:00,21-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Much cooler,-3,9,10,12,1,-4
+P02,21-06-23,DC9,P02_DC9,13:30:00,21-06-23 13:30,Neither hot nor cold,0,Comfortable,0,Much cooler,-3,13,10,14,2,-5
+P02,21-06-23,DC9,P02_DC9,16:30:00,21-06-23 16:30,Hot,2,Very uncomfortable,3,Much cooler,-3,15,16,15,3,-5
+P06,21-06-23,DC9,P06_DC9,10:30:00,21-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,2,4,7,-4,0
+P06,21-06-23,DC9,P06_DC9,12:30:00,21-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,2,7,-5,1
+P06,21-06-23,DC9,P06_DC9,13:30:00,21-06-23 13:30,Slightly cool,-1,Comfortable,0,Without change,0,1,2,7,-5,2
+P06,21-06-23,DC9,P06_DC9,16:30:00,21-06-23 16:30,Neither hot nor cold,0,Comfortable,0,Without change,0,1,1,7,-5,2
+P02,22-06-23,HS2,P02_HS2,10:30:00,22-06-23 10:30,Hot,2,Very uncomfortable,3,Much cooler,-3,9,8,13,0,-1
+P02,22-06-23,HS2,P02_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Uncomfortable,2,Much cooler,-3,13,12,13,1,-2
+P02,22-06-23,HS2,P02_HS2,13:30:00,22-06-23 13:30,Hot,2,Very uncomfortable,3,Much cooler,-3,14,14,16,2,-5
+P02,22-06-23,HS2,P02_HS2,16:30:00,22-06-23 16:30,Very hot,3,Extremely uncomfortable,4,Much cooler,-3,18,17,17,3,-5
+P03,22-06-23,HS2,P03_HS2,10:30:00,22-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,9,9,-1,2
+P03,22-06-23,HS2,P03_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,12,8,8,-1,1
+P03,22-06-23,HS2,P03_HS2,13:30:00,22-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,12,8,6,-3,3
+P03,22-06-23,HS2,P03_HS2,16:30:00,22-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,11,9,8,-2,2
+P06,22-06-23,HS2,P06_HS2,10:30:00,22-06-23 10:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,3,7,11,-5,0
+P06,22-06-23,HS2,P06_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,2,7,10,-5,2
+P06,22-06-23,HS2,P06_HS2,13:30:00,22-06-23 13:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,1,6,10,-5,2
+P06,22-06-23,HS2,P06_HS2,16:30:00,22-06-23 16:30,Hot ,2,Uncomfortable,2,Cooler,-2,1,5,8,-5,1
+P09,22-06-23,HS2,P09_HS2,10:30:00,22-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,10,10,7,-2,-2
+P09,22-06-23,HS2,P09_HS2,12:30:00,22-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,8,8,7,-3,1
+P09,22-06-23,HS2,P09_HS2,13:30:00,22-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,9,8,8,-2,-1
+P09,22-06-23,HS2,P09_HS2,16:30:00,22-06-23 16:30,Hot,2,Uncomfortable,2,Cooler,-2,13,10,11,1,2
+P10,22-06-23,HS2,P10_HS2,10:30:00,22-06-23 10:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,13,11,10,0,-3
+P10,22-06-23,HS2,P10_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,13,7,0,-1
+P10,22-06-23,HS2,P10_HS2,13:30:00,22-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,13,12,6,-1,-2
+P10,22-06-23,HS2,P10_HS2,16:30:00,22-06-23 16:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,13,12,6,1,1
+P12,22-06-23,HS2,P12_HS2,10:30:00,22-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,9,7,11,-4,2
+P12,22-06-23,HS2,P12_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,12,10,8,-2,-1
+P12,22-06-23,HS2,P12_HS2,13:30:00,22-06-23 13:30,Hot ,2,Uncomfortable,2,Cooler,-2,13,9,9,-2,-3
+P12,22-06-23,HS2,P12_HS2,16:30:00,22-06-23 16:30,Hot ,2,Uncomfortable,2,Cooler,-2,12,9,9,-1,-3
+P13,22-06-23,HS2,P13_HS2,10:30:00,22-06-23 10:30,Hot ,2,Uncomfortable,2,Cooler,-2,10,7,8,-2,1
+P13,22-06-23,HS2,P13_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,12,12,11,1,-1
+P13,22-06-23,HS2,P13_HS2,13:30:00,22-06-23 13:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,9,10,13,1,-1
+P13,22-06-23,HS2,P13_HS2,16:30:00,22-06-23 16:30,Hot,2,Very uncomfortable,3,Cooler,-2,11,13,15,2,-2
+P14,22-06-23,HS2,P14_HS2,10:30:00,22-06-23 10:30,Hot,2,Uncomfortable,2,Cooler,-2,17,2,18,-4,-2
+P14,22-06-23,HS2,P14_HS2,12:30:00,22-06-23 12:30,Hot,2,Uncomfortable,2,Cooler,-2,12,14,12,1,1
+P14,22-06-23,HS2,P14_HS2,13:30:00,22-06-23 13:30,Very hot,3,Very uncomfortable,3,Much cooler,-3,8,8,12,-3,2
+P14,22-06-23,HS2,P14_HS2,16:30:00,22-06-23 16:30,Very hot,3,Very uncomfortable,3,Much cooler,-3,10,10,13,-1,3
+P15,22-06-23,HS2,P15_HS2,10:30:00,22-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,7,6,13,2,5
+P15,22-06-23,HS2,P15_HS2,12:30:00,22-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,10,6,11,1,2
+P15,22-06-23,HS2,P15_HS2,13:30:00,22-06-23 13:30,Hot,2,Uncomfortable,2,Cooler,-2,11,7,12,0,1
+P15,22-06-23,HS2,P15_HS2,16:30:00,22-06-23 16:30,Very hot,3,Very uncomfortable,3,Much cooler,-3,7,4,13,-1,0
+P19,22-06-23,HS2,P19_HS2,10:30:00,22-06-23 10:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,13,17,1,-2,3
+P19,22-06-23,HS2,P19_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,16,16,5,2,0
+P19,22-06-23,HS2,P19_HS2,13:30:00,22-06-23 13:30,Hot,2,Uncomfortable,2,Cooler,-2,11,15,7,2,-4
+P19,22-06-23,HS2,P19_HS2,16:30:00,22-06-23 16:30,Hot,2,Uncomfortable,2,Cooler,-2,15,17,7,2,4
+P22,22-06-23,HS2,P22_HS2,10:30:00,22-06-23 10:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,1,1,1,-2,-3
+P22,22-06-23,HS2,P22_HS2,12:30:00,22-06-23 12:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,1,1,1,-3,-3
+P22,22-06-23,HS2,P22_HS2,13:30:00,22-06-23 13:30,Hot,2,Uncomfortable,2,Much cooler,-3,1,1,1,-3,-4
+P22,22-06-23,HS2,P22_HS2,16:30:00,22-06-23 16:30,Hot,2,Uncomfortable,2,Much cooler,-3,2,1,1,-2,-4
+P01,23-06-23,HS2,P01_HS2,10:30:00,23-06-23 10:30,Hot,2,Slightly uncomfortable,1,Cooler,-2,6,6,4,1,2
+P01,23-06-23,HS2,P01_HS2,12:30:00,23-06-23 12:30,Hot,2,Slightly uncomfortable,1,Slightly cooler,-1,6,5,6,-2,2
+P01,23-06-23,HS2,P01_HS2,13:30:00,23-06-23 13:30,Hot,2,Uncomfortable,2,Cooler,-2,6,6,8,1,2
+P01,23-06-23,HS2,P01_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,5,4,4,-2,2
+P04,23-06-23,HS2,P04_HS2,10:30:00,23-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,1,-5,3
+P04,23-06-23,HS2,P04_HS2,12:30:00,23-06-23 12:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-5,3
+P04,23-06-23,HS2,P04_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-5,3
+P04,23-06-23,HS2,P04_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Comfortable,0,Without change,0,1,1,1,-5,3
+P07,23-06-23,HS2,P07_HS2,10:30:00,23-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,3,4,3,-4,2
+P07,23-06-23,HS2,P07_HS2,12:30:00,23-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,2,5,5,-4,-4
+P07,23-06-23,HS2,P07_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,3,15,7,3,-4
+P07,23-06-23,HS2,P07_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,2,17,8,2,-4
+P08,23-06-23,HS2,P08_HS2,10:30:00,23-06-23 10:30,Hot,2,Uncomfortable,2,Cooler,-2,8,10,9,-2,-2
+P08,23-06-23,HS2,P08_HS2,12:30:00,23-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,9,13,13,2,-3
+P08,23-06-23,HS2,P08_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,12,12,9,-1,-1
+P08,23-06-23,HS2,P08_HS2,16:30:00,23-06-23 16:30,Hot,2,Uncomfortable,2,Slightly cooler,-1,12,10,13,1,-2
+P11,23-06-23,HS2,P11_HS2,10:30:00,23-06-23 10:30,Slightly warm,1,Very uncomfortable,3,Slightly cooler,-1,13,11,11,-1,0
+P11,23-06-23,HS2,P11_HS2,12:30:00,23-06-23 12:30,Slightly warm,1,Uncomfortable,2,Slightly cooler,-1,13,13,9,0,1
+P11,23-06-23,HS2,P11_HS2,13:30:00,23-06-23 13:30,Hot,2,Very uncomfortable,3,Cooler,-2,14,15,9,-1,2
+P11,23-06-23,HS2,P11_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Very uncomfortable,3,Slightly cooler,-1,13,13,9,-1,2
+P16,23-06-23,HS2,P16_HS2,10:30:00,23-06-23 10:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,1,1,1,-3,-1
+P16,23-06-23,HS2,P16_HS2,12:30:00,23-06-23 12:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,1,1,1,0,-2
+P16,23-06-23,HS2,P16_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,1,1,1,-3,-1
+P16,23-06-23,HS2,P16_HS2,16:30:00,23-06-23 16:30,Hot,2,Uncomfortable,2,Cooler,-2,1,1,1,1,-3
+P17,23-06-23,HS2,P17_HS2,10:30:00,23-06-23 10:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,3,3,5,-3,-3
+P17,23-06-23,HS2,P17_HS2,12:30:00,23-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,3,2,5,-3,-3
+P17,23-06-23,HS2,P17_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,2,2,4,-4,-2
+P17,23-06-23,HS2,P17_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Comfortable,0,Slightly cooler,-1,3,2,5,-2,-1
+P21,23-06-23,HS2,P21_HS2,10:30:00,23-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Slightly cooler,-1,4,15,8,3,4
+P21,23-06-23,HS2,P21_HS2,12:30:00,23-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,13,15,7,4,0
+P21,23-06-23,HS2,P21_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,16,8,11,-1,-3
+P21,23-06-23,HS2,P21_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Slightly uncomfortable,1,Cooler,-2,10,18,11,2,3
+P23,23-06-23,HS2,P23_HS2,10:30:00,23-06-23 10:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,14,15,15,2,-2
+P23,23-06-23,HS2,P23_HS2,12:30:00,23-06-23 12:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,14,16,16,3,-3
+P23,23-06-23,HS2,P23_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,16,16,17,3,-2
+P23,23-06-23,HS2,P23_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Uncomfortable,2,Cooler,-2,15,15,16,2,-1
+P24,23-06-23,HS2,P24_HS2,10:30:00,23-06-23 10:30,Neither hot nor cold,0,Comfortable,0,Without change,0,5,4,10,-5,3
+P24,23-06-23,HS2,P24_HS2,12:30:00,23-06-23 12:30,Neither hot nor cold,0,Comfortable,0,Without change,0,4,4,9,-5,1
+P24,23-06-23,HS2,P24_HS2,13:30:00,23-06-23 13:30,Slightly warm,1,Slightly uncomfortable,1,Slightly cooler,-1,6,3,12,-5,-1
+P24,23-06-23,HS2,P24_HS2,16:30:00,23-06-23 16:30,Slightly warm,1,Comfortable,0,Without change,0,5,3,11,-5,-2

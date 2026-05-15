@@ -1,0 +1,4 @@
+Arm / Contrast  PRE drift (bpm)  POST drift (bpm)  Δ POST–PRE (bpm)     95% CI of Δ  p (paired contrast)  Effect size (dz)
+    FR (n = 8)        -0.225551         -1.996489         -1.770938   [-5.23, 1.69]             0.301044         -0.334803
+    CC (n = 6)        -2.291445          2.932218          5.223663    [1.23, 9.22]             0.012703          1.365948
+  FR – CC (ΔΔ)              NaN               NaN         -6.994601 [-12.28, -1.71]             0.011785         -1.477400

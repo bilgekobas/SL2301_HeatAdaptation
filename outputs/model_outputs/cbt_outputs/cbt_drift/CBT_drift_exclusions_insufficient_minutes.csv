@@ -1,0 +1,3 @@
+part_id,arm,scenario,n_early,early_mean,n_late,late_mean,drift,sex_c,fat_pct_c,bmr_c,reason
+P04,FR,HS2,6.0,36.04333333333333,15.0,36.566,0.522666666666673,1.0,-5.40787636673053,-289.2649527806925,"min_minutes_fail(n_early=6,n_late=15)"
+P04,FR,NA,,,,,,,,,asymmetrical_missing_scenario(have=HS1)
